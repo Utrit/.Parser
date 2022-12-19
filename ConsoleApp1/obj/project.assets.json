@@ -79,9 +79,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Codes VS\\10 Parser\\Parser\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "D:\\Codes VS\\10 Parser\\Parser\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\Codes VS\\10 Parser\\Parser\\ConsoleApp1\\WebParser.csproj",
+      "projectName": "WebParser",
+      "projectPath": "D:\\Codes VS\\10 Parser\\Parser\\ConsoleApp1\\WebParser.csproj",
       "packagesPath": "C:\\Users\\houro\\.nuget\\packages\\",
       "outputPath": "D:\\Codes VS\\10 Parser\\Parser\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",

@@ -15,3 +15,20 @@ C:\Users\oglus\Desktop\Project\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\C
 C:\Users\oglus\Desktop\Project\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
 C:\Users\oglus\Desktop\Project\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\oglus\Desktop\Project\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+D:\Codes VS\10 Parser\Parser\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\Codes VS\10 Parser\Parser\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\Codes VS\10 Parser\Parser\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\Codes VS\10 Parser\Parser\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\Codes VS\10 Parser\Parser\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\Codes VS\10 Parser\Parser\ConsoleApp1\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\Codes VS\10 Parser\Parser\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Codes VS\10 Parser\Parser\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes VS\10 Parser\Parser\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Codes VS\10 Parser\Parser\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\Codes VS\10 Parser\Parser\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Codes VS\10 Parser\Parser\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CopyComplete
+D:\Codes VS\10 Parser\Parser\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\Codes VS\10 Parser\Parser\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\Codes VS\10 Parser\Parser\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\Codes VS\10 Parser\Parser\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\Codes VS\10 Parser\Parser\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
